@@ -1,0 +1,41 @@
+{
+  "title": "Quasi-Stationary Dynamics of CPG Promotions: Simulation and Dataset",
+  "version": "1.0.0",
+  "doi": "",
+  "publication_date": "2025-10-31",
+  "description": "Initial release of simulation code and synthetic dataset exploring quasi-stationary states in consumer packaged goods (CPG) promotional dynamics. Includes agent-based modeling of price promotions, consumer behavior, and long-term market equilibrium analysis.",
+  
+  "creators": [
+    {
+      "name": "Vinoalles",
+      "affiliation": "Independent Researcher",
+      "orcid": ""
+    }
+  ],
+  
+  "keywords": [
+    "CPG",
+    "promotions",
+    "quasi-stationary dynamics",
+    "agent-based modeling",
+    "retail analytics",
+    "simulation",
+    "dataset"
+  ],
+  
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "open-science"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/vinoalles/Quasi-Stationary-Dynamics-of-CPG-Promotions",
+      "resource_type": "publication-software"
+    }
+  ]
+}
